@@ -1,4 +1,4 @@
-# Discord Clone Project
+# ![Discord Image](images/logo.svg)
 
 Welcome to the Discord Clone project! This project aims to replicate the user interface and some functionality of the popular communication platform Discord using the Tailwind CSS framework.
 
