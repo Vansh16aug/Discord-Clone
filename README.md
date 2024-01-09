@@ -1,4 +1,4 @@
-# <img src="images/logo.svg" alt="Discord Image" width="500" height="100">
+# <img src="images/logo.svg" alt="Discord Image" width="800" height="100">
 
 Welcome to the Discord Clone project! This project aims to replicate the user interface and some functionality of the popular communication platform Discord using the Tailwind CSS framework.
 
