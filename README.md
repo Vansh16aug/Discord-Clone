@@ -34,16 +34,6 @@ Happy coding! 🚀
 
 ## Setup
 
-Follow these steps to set up the Discord Clone project on your local machine:
-
-1. **Clone the Repository:**
+ **Clone the Repository:**
    ```bash
    git clone https://github.com/Vansh16aug/Discord-Clone.git
-
-2.**Start the Development Server:**
-   ```bash
-   npm start
-
-
-
-  
